@@ -5,7 +5,7 @@ public class main {
         Eventos eventos = new Eventos();
         eventos.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         eventos.setResizable(false);
-        eventos.setBounds(0,0,800,600);
+        eventos.setBounds(0,0,900,600);
         eventos.setVisible(true);
     }
 }
